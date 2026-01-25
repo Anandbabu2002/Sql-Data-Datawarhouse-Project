@@ -15,7 +15,7 @@ Script Purpose:
 
 Usage Example:
     EXEC Silver.load_silver;
-==============================================================================
+=============================================================================
 */
 
 CREATE OR ALTER PROCEDURE silver.load_silver AS
